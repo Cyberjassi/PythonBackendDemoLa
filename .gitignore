@@ -1,0 +1,5 @@
+app/migrations/*
+app/__pycache__/*
+app/*/__pycache__/*
+socialmedia/*/__pycache__/*
+socialmedia/__pycache__/*
